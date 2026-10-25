@@ -1,1 +1,1 @@
-# 1-Bit-GPT-2-from-scratch
+# Ternary-GPT-2-from-scratch
